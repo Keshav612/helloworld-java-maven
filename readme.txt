@@ -14,7 +14,7 @@
 </distributionManagement>
 
 
-===============ARTIFACTORY=================
+===============ARTIFACTORY=================TASK
 <distributionManagement>
 	<repository>
 		<id>rajesh</id>
